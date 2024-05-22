@@ -5,8 +5,9 @@
 [href="https://validator.w3.org/"] {
     color: red;
 }  
-p{
-    size: 24px;
+
+ul + p{
+    font-size: 24px;
 }
 
 
